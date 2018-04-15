@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/saurfang/capture-the-ether.svg?branch=master)](https://travis-ci.org/saurfang/capture-the-ether)
+
 # capture-the-ether
 
 Example code for my [Medium Let's Play Series](https://medium.com/@saurfang/lets-play-capture-the-ether-warmup-68a5fc38e670) for [Capture the Ether](https://capturetheether.com).
